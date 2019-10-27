@@ -1,5 +1,5 @@
 # How to run this Script
-Press `CTRL+SHIFT+I` in the Discord app, go to the Console, and paste the script. Then, check your profile. :c
+Press `CTRL+SHIFT+I` (MAC: `OPTION+COMMAND+I`) in the Discord app, go to the Console, and paste the script. Then, check your profile. :c
 
 # Badge numbers
 - 1 - Staff
